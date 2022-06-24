@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background: #2c5282;
+  height: 100vh;
+  width: 100vw;
+}
+
+.form-container{
+  color:antiquewhite;
+  margin: 20px;
+}
+
+.todo-input{
+  text-decoration: solid line-through;
+}
