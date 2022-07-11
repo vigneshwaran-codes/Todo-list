@@ -21,7 +21,7 @@ function App () {
 
   return (
     <div className='App'>
-      <Navbar expand='xll' bg='dark' variant='dark' sticky='top'>
+      <Navbar expand='xll' className='navbar' variant='dark' sticky='top'>
         <Container>
           <Navbar.Brand href='#home'>Todo-App</Navbar.Brand>
           <Navbar.Brand><Timer /></Navbar.Brand>
